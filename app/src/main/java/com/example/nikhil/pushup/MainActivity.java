@@ -13,7 +13,11 @@ public class MainActivity extends AppCompatActivity {
     }
     public void Test()
     {
-        int i=1+1;
-        int ii=2+2;
+        int i=1+2;
+        int ii=2+3;
     }
+
+
 }
+
+
